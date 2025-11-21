@@ -11,6 +11,6 @@ Outside of coding, I spend time exploring Kali Linux, and I’m not the most soc
 
 I prefer tea over coffee.🫖
 
-Alice in Borderland is my favorite series.�
-�️
+Alice in Borderland is my favorite series.🎞️
+
 I love solving puzzles on Chess.com.♟️🧩
