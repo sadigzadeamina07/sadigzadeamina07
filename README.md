@@ -5,10 +5,13 @@
 # 👋 Hi, I'm Sadigzade Amina
 
 ### Frontend Developer 🌙
+
 <br/>
+
 ### ✨ Creating Beautiful Web Experiences ✨
 
 <br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadigzadeamina07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-sadigzade-17b094326)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Citygirlamina/)
@@ -26,7 +29,6 @@
 ## 💫 About Me
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
 ```typescript
 const A_Sadigzade = {
   role: "Frontend Developer",
@@ -104,4 +106,3 @@ const A_Sadigzade = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-
