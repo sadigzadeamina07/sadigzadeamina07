@@ -29,14 +29,13 @@
 ## 💫 About Me
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
 ```typescript
 const A_Sadigzade = {
   role: "Frontend Developer",
-  personality: "INTJ-A ",
+  personality: "INTJ-A",
   focus: ["AJAX", "React", "TypeScript", "Web Development"],
   languages: ["JavaScript", "TypeScript", "Python", "C++"],
-  facts: [" Tea > Coffee", " Kali Linux explorer"]
+  facts: ["🫖 Tea > Coffee", "🔐 Kali Linux explorer"]
 };
 ```
 
@@ -62,8 +61,29 @@ const A_Sadigzade = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
+</picture>
 
 </div>
 
@@ -73,7 +93,7 @@ const A_Sadigzade = {
 
 ### 💬 Let's Connect!
 
-📧 sadigzadeamina7@gmail.com • 🌐 Portfolio: Coming Soon 
+📧 sadigzadeamina7@gmail.com • 🌐 Portfolio: Coming Soon
 
 <br/>
 
