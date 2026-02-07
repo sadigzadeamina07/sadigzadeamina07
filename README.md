@@ -29,6 +29,7 @@
 ## 💫 About Me
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 ```typescript
 const A_Sadigzade = {
   role: "Frontend Developer",
@@ -106,3 +107,4 @@ const A_Sadigzade = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
+
