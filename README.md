@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
@@ -19,6 +18,10 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sadigzadeamina07&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 
 </div>
@@ -30,10 +33,10 @@
 ```typescript
 const A_Sadigzade = {
   role: "Frontend Developer",
-  personality: "INTJ-A 🧠",
+  personality: "INTJ-A ",
   focus: ["AJAX", "React", "TypeScript", "Web Development"],
   languages: ["JavaScript", "TypeScript", "Python", "C++"],
-  facts: ["🫖 Tea > Coffee", "🔐 Kali Linux explorer"]
+  facts: [" Tea > Coffee", " Kali Linux explorer"]
 };
 ```
 
@@ -70,7 +73,7 @@ const A_Sadigzade = {
 
 ### 💬 Let's Connect!
 
-📧 sadigzadeamina7@gmail.com • 🌐 Portfolio: Coming Soon 🚀
+📧 sadigzadeamina7@gmail.com • 🌐 Portfolio: Coming Soon 
 
 <br/>
 
