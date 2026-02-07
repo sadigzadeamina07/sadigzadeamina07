@@ -5,13 +5,10 @@
 # 👋 Hi, I'm Sadigzade Amina
 
 ### Frontend Developer 🌙
-
 <br/>
-
 ### ✨ Creating Beautiful Web Experiences ✨
 
 <br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadigzadeamina07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-sadigzade-17b094326)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Citygirlamina/)
