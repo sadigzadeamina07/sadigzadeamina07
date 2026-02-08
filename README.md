@@ -37,7 +37,7 @@ const A_Sadigzade = {
   personality: "INTJ-A",
   focus: ["AJAX", "React", "TypeScript", "Web Development"],
   languages: ["JavaScript", "TypeScript", "Python", "C++"],
-  facts: ["🫖 Tea > Coffee", "🔐 Kali Linux explorer"]
+  facts: [" Tea > Coffee", " Kali Linux explorer"]
 };
 ```
 
