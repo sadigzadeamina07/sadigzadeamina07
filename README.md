@@ -35,7 +35,7 @@
 const A_Sadigzade = {
   role: "Frontend Developer",
   personality: "INTJ-A",
-  focus: ["AJAX", "React", "TypeScript", "Web Development"],
+  focus: ["AJAX", "React",  "Web Development"],
   languages: ["JavaScript", "TypeScript", "Python", "C++"],
   facts: [" Tea > Coffee", " Kali Linux explorer"]
 };
@@ -49,11 +49,11 @@ const A_Sadigzade = {
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,ts,react,python,cpp,git,github,vscode,linux)
+![Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react,python,cpp,git,github,vscode,linux)
 
 <br/><br/>
 
-**Currently Learning:** AJAX • TypeScript • React
+**Currently Learning:**  React
 
 </div>
 
