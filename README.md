@@ -58,33 +58,33 @@ const A_Sadigzade = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
-
 ## 📊 GitHub Stats
 <div align="center">
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    srcset="https://github-stats-extended.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=default&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=default&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=sadigzadeamina07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </picture>
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=default&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=default&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadigzadeamina07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
 </picture>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
+
 <div align="center">
 
 ### 💬 Let's Connect!
